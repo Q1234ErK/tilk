@@ -1,6 +1,7 @@
+
 [
   {
-    "متن": "تست سرور",
-    "تصویر": "https://s4.uupload.ir/files/md_5srf.png"
+    "متن": "لرن اسکچور",
+    "تصویر": "https://s4.uupload.ir/files/mh_ytoa.png"
   }
 ]
