@@ -12,6 +12,7 @@
     "تصویر": "https://s4.uupload.ir/files/img_20210731_144216_201_f8h4.jpg"
   },
   {
-    "متن": "اپ مستقیم"
+    "متن": "سرور هاب تی",
+    "تصویر": "https://s19.picofile.com/file/8437808100/Corona_Virus_Icon_Set_Preview_Image_722x1024.jpg"
   }
 ]
